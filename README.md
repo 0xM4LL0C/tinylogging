@@ -1,12 +1,12 @@
 # tinylogging
 
-![GitHub License](https://img.shields.io/github/license/HamletSargsyan/tinylogging)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HamletSargsyan/tinylogging)
+![GitHub License](https://img.shields.io/github/license/0xM4LL0C/tinylogging)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/0xM4LL0C/tinylogging)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/tinylogging)
 ![PyPI - Version](https://img.shields.io/pypi/v/tinylogging)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tinylogging)
-![Checks](https://github.com/HamletSargsyan/tinylogging/actions/workflows/check.yml/badge.svg)
-![Documentation](https://github.com/HamletSargsyan/tinylogging/actions/workflows/documentation.yml/badge.svg)
+![Checks](https://github.com/0xM4LL0C/tinylogging/actions/workflows/check.yml/badge.svg)
+![Documentation](https://github.com/0xM4LL0C/tinylogging/actions/workflows/documentation.yml/badge.svg)
 
 ## Installation
 
@@ -85,4 +85,4 @@ if __name__ == "__main__":
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/HamletSargsyan/tinylogging/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/0xM4LL0C/tinylogging/blob/main/LICENSE).

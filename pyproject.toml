@@ -14,10 +14,10 @@ name = "Hamlet"
 email = "hamlets849@gmail.com"
 
 [project.urls]
-repository = "https://github.com/HamletSargsyan/tinylogging"
-homepage = "https://github.com/HamletSargsyan/tinylogging"
-documentation = "https://hamletsargsyan.github.io/tinylogging"
-"Bug Tracker" = "https://github.com/HamletSargsyan/tinylogging/issues"
+repository = "https://github.com/0xM4LL0C/tinylogging"
+homepage = "https://github.com/0xM4LL0C/tinylogging"
+documentation = "https://0xM4LL0C.github.io/tinylogging"
+"Bug Tracker" = "https://github.com/0xM4LL0C/tinylogging/issues"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
